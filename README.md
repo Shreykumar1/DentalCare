@@ -7,6 +7,9 @@
 ## Project Overview
 This is a Dental Center Management Dashboard built for the ENTNT technical assignment. The application allows Admins (Dentists) to manage patients, appointments (incidents), and upload treatment records, while Patients can view their own data and appointment history. All data is simulated and persisted in the browser using localStorage. No backend or external APIs are used.
 
+You can access the app here: [https://dentalcareent.netlify.app](https://dentalcareent.netlify.app)
+
+
 ---
 
 ## Table of Contents
@@ -64,8 +67,8 @@ This is a Dental Center Management Dashboard built for the ENTNT technical assig
 ### Getting Started
 ```sh
 # 1. Clone the repository
-git clone <YOUR_GITHUB_REPO_URL>
-cd <YOUR_PROJECT_NAME>
+git clone https://github.com/Shreykumar1/DentalCare.git
+cd DentalCare
 
 # 2. Install dependencies
 npm install
