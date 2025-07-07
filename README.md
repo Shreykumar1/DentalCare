@@ -1,6 +1,5 @@
 # ENTNT Dental Center Management Dashboard
 
-## Role: Frontend Developer (React) - Technical Assignment
 
 ---
 
